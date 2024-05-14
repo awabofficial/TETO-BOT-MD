@@ -10,17 +10,14 @@
 > - ar - اللغة العربية
 > - en - اللغة الإنجليزية 
 
-### `▢ CUENTAS OFICIALES`
+### `• MY | OFICIALES - قناتي الرسميـة`
 
-[ 🔗 ] https://www.atom.bio/theshadowbrokers-team
+[ 〽️ ] https://whatsapp.com/channel/0029VaZn6N059PwNW717Ww3Q
 
-### `▢ GRUPOS DE SOPORTE (NO DISPONIBLE)`
+### `• GRUPOS OFFICIAL - قروبي الرسمـي)`
 
- <a href="https://chat.whatsapp.com/J8tFq87Ia0jEnx20NvCQxN" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE_(PORTUGU%C3%8AS)_(ATIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ <a href="https://chat.whatsapp.com/ER5t8uFzUcj4OmAWCcJlbM" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE_(PORTUGU%C3%8AS)_(ATIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE_(ES)_(NO_DISPONIBLE)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
-<a href="https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)_(NOT AVAILABLE)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 > [ ℹ️ ] En los grupos de soporte no se permiten bots.
 
