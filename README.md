@@ -1,4 +1,4 @@
-# `𝙏𝙃𝙀 𝙈𝙔𝙎𝙏𝙄𝘾 - 𝘽𝙊𝙏` 
+# `TETO-BOT-MD` 
 
 ------------------
 > **تيتو بوت**: أول بوت واتساب سوداني 🇸🇩❤️
@@ -6,15 +6,9 @@
 > دعمكم يهمني لكي اواصل في تطوير البوت ❤️
 ------------------
 
-<!-- Por colaborador: https://github.com/jeffersonalionco -->
-> Función de **idioma** oficialmente implementada en TheMystic-Bot-MD: **/lang**
-> ##### **𝙏𝙃𝙀 𝙈𝙔𝙎𝙏𝙄𝘾 - 𝘽𝙊𝙏 - Idiomas Disponibles**
-> - es - Español
-> - pt-br - Portugués
-> - en - Inglés
-> - ru - Ruso
-> - fr - Francés
-> - ar - Árabe (انزل لآخر الصفحة للتعرف على المزيد) 
+> ##### **اللغات التي يوفرها البوت**
+> - ar - اللغة العربية
+> - en - اللغة الإنجليزية 
 
 ### `▢ CUENTAS OFICIALES`
 
