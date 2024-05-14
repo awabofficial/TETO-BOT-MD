@@ -10,63 +10,25 @@
 > - ar - اللغة العربية
 > - en - اللغة الإنجليزية 
 
-### `• MY | OFICIALES - قناتي الرسميـة`
+### `• MY | OFICIALE - قناتي الرسميـة`
 
 [ 〽️ ] https://whatsapp.com/channel/0029VaZn6N059PwNW717Ww3Q
 
-### `• GRUPOS OFFICIAL - قروبي الرسمـي)`
+### `• GROUP OFFICIAL - قروبي الرسمـي)`
 
  <a href="https://chat.whatsapp.com/ER5t8uFzUcj4OmAWCcJlbM" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE_(PORTUGU%C3%8AS)_(ATIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
-> [ ℹ️ ] En los grupos de soporte no se permiten bots.
+ ### `• BOT OFICIALE - بوتي الرسمي`
 
- ### `▢ BOTS OFICIALES (INACTIVOS)`
+<a href="https://api.whatsapp.com/send/?phone=+249118215303&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
+### `▢ ACTIVAR iN REPLIT -النشر علي منصة ريبليت`
 
-<a href="https://api.whatsapp.com/send/?phone=5219991402134&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1_(INACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-<a href="https://api.whatsapp.com/send/?phone=5219993404349&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_2_(INACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-### `▢ DONAR`
-- Agradece con una donación voluntaria haciendo [clic aquí](https://www.paypal.me/TheShadowBrokers133)
-
-### `▢ PLUGINS`
-- Tienes ideas de plugins o ¿quieres obtener mas plugins? entonces hace [clic aquí](https://github.com/theh2so4/Mystic-Plugins)
-
-### `▢ AJUSTES`
-- Clona el repositorio haciendo [clic aquí](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- ¿Quieres cambiar el número del propietario? haz [clic aquí](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
-
-### `▢ ACTIVAR EN CAFIREXOS (ANTES ZIPPONODES)`
-<a href="https://www.cafirexos.com"><img src="https://r2.cafirexos.com/logos%2Flogo_cfros_2000x2000.png" height="125px"></a>
-- Sitio web: [www.cafirexos.com](https://www.cafirexos.com)
-- Dash: [dash.cafirexos.com](https://dash.cafirexos.com)
-- Panel: [panel.cafirexos.com](https://panel.cafirexos.com)
-- Documentación: [docs.cafirexos.com](https://docs.cafirexos.com)
-- Canal de WhatsApp: [clic aquí](https://cafirexos.com/whatsapp)
-
-### `▢ ACTIVAR EN BOXMINEHOST`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
-- Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
-- Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
-- Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
-- Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/eC9TfKICpcY)
-- Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
-
-### `▢ ACTIVAR EN KOYEB`
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/BrunoSobrino/TheMystic-Bot-MD&branch=master&name=mysticbot)
+[![Run on Repl.it](https://repl.it/badgi/github/awabofficial/TETO-BOT-MD)](https://repl.it/github/awabofficial/TETO-BOT-MD) 
   
-### `▢ ACTIVAR EN REPLIT`
 
-[![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/BrunoSobrino/TheMystic-Bot-MD) 
-  
-### `▢ ACTIVAR EN RENDER`
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FBrunoSobrino%2FTheMystic-Bot-MD) 
-
-### `▢ ACTIVAR EN TERMUX` 
+### `▢ ACTIVAR iN TERMUX - النشر علي تيرمكس` 
 - Escribe los siguientes comandos en Termux:
 ```bash
 cd && termux-setup-storage
@@ -81,7 +43,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD
+git clone https://github.com/awabofficial/TETO-BOT-MD.git && cd TheMystic-Bot-MD
 ```
 
 ```bash
@@ -100,32 +62,10 @@ npm update
 npm start
 ```
 
-### `▢ ACTIVAR EN CASO DE DETENERSE (TERMUX)`
-- Escribe los siguientes comandos en Termux:
-```bash
-> cd 
-> cd Mystic-termux
-> npm start
-```
 
-### `▢ OBTENER OTRO CODIGO QR (TERMUX)`
-- DETEN EL BOT, HAZ CLICK EN EL SIMBOLO CTRL DE TERMUX MAS Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A TheMystic-Bot-MD $
-- Escribe los siguientes comandos en Termux:
-```bash
-> cd 
-> cd TheMystic-Bot-MD
-> rm -rf MysticSession
-> npm start
 ```
 ### `▢ NOTAS`
-- ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
-- SI VAS A EDITAR POR COMPLETO DEJA LOS CREDITOS DEL BOT 
-- EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
-- ATENTO A LAS ACTUALIZACIONES QUE SE HAGAN EN ESTE REPOSITORIO
-- PUEDES USAR #actualizacion PARA VER SI ALGUN COMANDO FUE ACTUALIZADO
-- EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
-- THE SHADOW BROKERS - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
- 
+
  ### `▢ ¿DUDAS SOBRE EL BOT?, CONTACTANOS`
 <a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/595986460945" target="blank"><img src="https://img.shields.io/badge/AIDEN_NOTLOGIC_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
