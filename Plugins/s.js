@@ -9,7 +9,7 @@ const handler = async (m, {conn, args, usedPrefix, command}) => {
   const datas = global
   const idioma = datas.db.data.users[m.sender].language
   const _translate = JSON.parse(fs.readFileSync(`./language/ar.json`))
-  const tradutor = _translate.plugins.sticker_sticker
+  const tradutor = _translate.plugins.s
 
   if (usedPrefix == 'a' || usedPrefix == 'A') return;
   let stiker = false;
@@ -36,7 +36,7 @@ const handler = async (m, {conn, args, usedPrefix, command}) => {
       }
     } else if (args[0]) {
       if (isUrl(args[0])) stiker = await sticker(false, args[0], global.packname, global.author);
-      else return m.reply(`${tradutor.texto2} ${usedPrefix}s https://telegra.ph/file/0dc687c61410765e98de2.jpg*`);
+      else return m.reply(`${tradutor.texto2} ${usedPrefix}s https://telegra.ph/file/8a56b7b33a6c8bec50f9c.jpg*`);
     }
   } catch (e) {
     console.error(e);
