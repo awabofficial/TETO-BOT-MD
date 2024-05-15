@@ -7,7 +7,7 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "249118215303"
+global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
