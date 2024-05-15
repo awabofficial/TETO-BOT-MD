@@ -13,11 +13,11 @@ const {name, author} = require(join(__dirname, './package.json'));
 const {say} = cfonts;
 const rl = createInterface(process.stdin, process.stdout);
 
-say('The Mystic\nBot', {
+say('TETO\nBot', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
-say(`Bot creado por Bruno Sobrino`, {
+say(`TETO BOT SUDANESE`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']});
@@ -57,7 +57,7 @@ function start(file) {
   });
   p.on('exit', (_, code) => {
     isRunning = false;
-    console.error('[ ℹ️ ] Ocurrio un error inesperado:', code);
+    console.error('[ ℹ️ ] هنالك خطاأ ما ي برو:', code);
 
     p.process.kill();
     isRunning = false;
