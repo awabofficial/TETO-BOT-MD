@@ -40,7 +40,7 @@ const handler = async (m, {conn, text, participants, isOwner, isAdmin}) => {
     }
   }
 };
-handler.command = /^(تاقي|وريهم|صحصحو)$/i;
+handler.command = /^(مخفي|وريهم|صحصحو)$/i;
 handler.group = true;
 handler.admin = true;
 export default handler;
